@@ -1,0 +1,25 @@
+#social-media {
+  list-style: none;
+}
+#buttons {
+  list-style: none;
+  display: flex;
+  padding: 4px;
+}
+
+#profetional1 {
+  background-image: url(./images/Placeholder4.png);
+}
+
+#profetional2 {
+  background-image: url(./images/Placeholder5.png);
+}
+
+#profetional3 {
+  background-image: url(./images/Placeholder1.png);
+  background-color: or;
+}
+
+#buttons1 {
+  list-style: none;
+}
